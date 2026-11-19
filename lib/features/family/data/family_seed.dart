@@ -6,6 +6,6 @@ import '../domain/family.dart';
 class FamilySeed {
   static List<Family> families() => [
         Family(id: 'f1', name: 'Keluarga Ven', code: 'VEN482'),
-        Family(id: 'f2', name: 'Rumah Kos Melati', code: 'MLT735'),
+        Family(id: 'f2', name: 'Rumah Kos Melatiz', code: 'MLT735'),
       ];
 }
